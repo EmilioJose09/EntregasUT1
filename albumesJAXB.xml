@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<albumes>
+    <albumes>
+        <id>1</id>
+        <nom>RHLM</nom>
+        <tiempo>23.5</tiempo>
+    </albumes>
+    <albumes>
+        <id>2</id>
+        <nom>Afrodisiaco</nom>
+        <tiempo>33.3</tiempo>
+    </albumes>
+    <albumes>
+        <id>3</id>
+        <nom>UVST</nom>
+        <tiempo>42.11</tiempo>
+    </albumes>
+</albumes>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+    <albumes>
+        <album>
+            <id>1</id>
+            <nom>Viceversa</nom>
+            <tiempo>25.2</tiempo>
+        </album>
+        <album>
+            <id>2</id>
+            <nom>Feliz Cumpleaños Ferxxo</nom>
+            <tiempo>35.2</tiempo>
+        </album>
+        <album>
+            <id>3</id>
+            <nom>Microdosis</nom>
+            <tiempo>32.0</tiempo>
+        </album>
+    </albumes>
+</xml>
